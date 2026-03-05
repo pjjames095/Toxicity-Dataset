@@ -54,12 +54,4 @@ This project implements an end-to-end machine learning solution for classifying 
 - Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 - Confusion matrix and ROC curve visualization
 
-## 🚀 Installation
 
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
