@@ -9,12 +9,6 @@ A complete machine learning pipeline for predicting molecular toxicity using ens
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 
 ## 🎯 Overview
 
